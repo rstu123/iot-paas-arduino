@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build artifacts
+build/
+*.o
+*.elf
+*.bin
+*.hex
